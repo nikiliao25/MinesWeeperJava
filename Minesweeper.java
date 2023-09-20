@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.*;
 
+
 public class Minesweeper {
     private class MineTile extends JButton {
         int r;
